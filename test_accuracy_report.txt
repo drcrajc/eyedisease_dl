@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+    cataract     0.4359    0.7500    0.5514        68
+      dretin     0.9333    0.6364    0.7568        88
+    glaucoma     0.5238    0.3492    0.4190        63
+
+    accuracy                         0.5890       219
+   macro avg     0.6310    0.5785    0.5757       219
+weighted avg     0.6611    0.5890    0.5958       219
